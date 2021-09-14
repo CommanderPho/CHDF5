@@ -14,3 +14,7 @@ let package = Package(
 	]
 )
 // pkgConfig: "libhdf5",
+// Originally expected at "/usr/local/include/*"
+
+// "/usr/local/Cellar/hdf5/1.12.1/include/*"
+
